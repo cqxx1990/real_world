@@ -1,0 +1,22 @@
+module.exports={
+  server:{
+    host:'0.0.0.0',
+    port:80
+  },
+  router:{
+    linkActiveClass:'active',
+    extendRoutes(routes,resolve){
+      let r = routes.find(route=>route.path==='/');
+      r.children.push({
+        path:'/register',
+        name:"register",
+        component:resolve(__dirname,'pages/index/login')
+      })
+    }
+  },
+  plugins:[
+    '~/plugins/request.js',
+    '~/plugins/datetime.js',
+    '~/plugins/main.js'
+  ]
+}

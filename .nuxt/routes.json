@@ -1,0 +1,72 @@
+[
+  {
+    "path": "/",
+    "component": "D:\\\\xx123\\\\exercises\\\\nuxt\\\\realworld-nuxtjs\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "children": [
+      {
+        "name": "index",
+        "path": "",
+        "component": "D:\\\\xx123\\\\exercises\\\\nuxt\\\\realworld-nuxtjs\\\\pages\\\\index\\\\index.vue",
+        "chunkName": "pages/index/index",
+        "_name": "_13b7fe1f"
+      },
+      {
+        "name": "index-editor",
+        "path": "editor",
+        "component": "D:\\\\xx123\\\\exercises\\\\nuxt\\\\realworld-nuxtjs\\\\pages\\\\index\\\\editor\\\\index.vue",
+        "chunkName": "pages/index/editor/index",
+        "_name": "_310d0612"
+      },
+      {
+        "name": "index-login",
+        "path": "login",
+        "component": "D:\\\\xx123\\\\exercises\\\\nuxt\\\\realworld-nuxtjs\\\\pages\\\\index\\\\login.vue",
+        "chunkName": "pages/index/login",
+        "_name": "_4540bd94"
+      },
+      {
+        "name": "index-settings",
+        "path": "settings",
+        "component": "D:\\\\xx123\\\\exercises\\\\nuxt\\\\realworld-nuxtjs\\\\pages\\\\index\\\\settings\\\\index.vue",
+        "chunkName": "pages/index/settings/index",
+        "_name": "_133a3748"
+      },
+      {
+        "name": "index-article-widget-article-comments",
+        "path": "article/widget/article-comments",
+        "component": "D:\\\\xx123\\\\exercises\\\\nuxt\\\\realworld-nuxtjs\\\\pages\\\\index\\\\article\\\\widget\\\\article-comments.vue",
+        "chunkName": "pages/index/article/widget/article-comments",
+        "_name": "_a6044e1c"
+      },
+      {
+        "name": "index-article-widget-article-mate",
+        "path": "article/widget/article-mate",
+        "component": "D:\\\\xx123\\\\exercises\\\\nuxt\\\\realworld-nuxtjs\\\\pages\\\\index\\\\article\\\\widget\\\\article-mate.vue",
+        "chunkName": "pages/index/article/widget/article-mate",
+        "_name": "_38793483"
+      },
+      {
+        "name": "index-article-slug",
+        "path": "article/:slug?",
+        "component": "D:\\\\xx123\\\\exercises\\\\nuxt\\\\realworld-nuxtjs\\\\pages\\\\index\\\\article\\\\_slug.vue",
+        "chunkName": "pages/index/article/_slug",
+        "_name": "_ba4efa52"
+      },
+      {
+        "name": "index-profile-username",
+        "path": "profile/:username?",
+        "component": "D:\\\\xx123\\\\exercises\\\\nuxt\\\\realworld-nuxtjs\\\\pages\\\\index\\\\profile\\\\_username.vue",
+        "chunkName": "pages/index/profile/_username",
+        "_name": "_088c506f"
+      },
+      {
+        "path": "/register",
+        "name": "register",
+        "component": "D:\\\\xx123\\\\exercises\\\\nuxt\\\\realworld-nuxtjs\\\\pages\\\\index\\\\login",
+        "_name": "_52d4ed9e"
+      }
+    ],
+    "_name": "_e1e185fa"
+  }
+]
