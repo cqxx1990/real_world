@@ -1,7 +1,7 @@
 {
   "apps":[
     {
-      "name":"realworld-auto",
+      "name":"realworld-cicd",
       "script":"npm",
       "args":"start"
     }
